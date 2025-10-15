@@ -3,8 +3,6 @@
 A modern React + TypeScript web app built with Vite that allows you to play livestream videos and add interactive overlays such as text or images directly on top of the video player.
 
 
-[Watch the video]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1fw-SSd-B8zix1Mkx-GR0FLnhG48yxswZ/view?usp=sharing))
-
 
 
 ✨ Features

@@ -59,29 +59,11 @@ Click Deploy, and Vercel will host your app live!
 🔗 Example Stream URL
 By default, the app uses a sample public video:
 
-ts
+
 const streamUrl = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4";
 You can replace this with your own livestream or HLS link.
 
-🧩 Folder Structure
 
-src/
- ├── components/
- │    ├── VideoPlayer.tsx
- │    ├── OverlayControls.tsx
- │    └── OverlayItem.tsx
- ├── types/
- │    └── overlay.ts
- ├── App.tsx
- ├── main.tsx
- └── index.css
- 
-💡 Instructions
-Click and drag overlays to reposition them
-
-Drag the bottom-right corner to resize
-
-Use the control panel to add, hide, or remove overlays
 
 Video controls are at the bottom of the player
 
